@@ -38,7 +38,7 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="22607603281"
+      OWNER_NUMBER="22668014772"
       MONGODB_URI=mongodb+srv://rahul:rahul@cluster0.ik98tiw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       SESSION_ID = "ID-here"
       THUMB_IMAGE = "https://telegra.ph/file/40ffc2a288542560c887c.jpg"
