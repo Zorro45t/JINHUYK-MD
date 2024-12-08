@@ -1,15 +1,15 @@
 {
-    "name": "Jinhuyk MD",
+    "name": "𝑴𝒂𝒓𝒄𝒆𝒍 𝒎𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏",
     "description": "Simple WhatsApp Bot🤖 For the Taka",
     "logo": "https://endpoint.web.id/server/file/I8dkDXm1nJDtOI75.jpg",
-    "keywords": ["Kang jinhuyk", "jinhuyk", "JINHUYK-MD"],
+    "keywords": ["Kang jinhuyk", "jinhuyk", "༆𝑱𝑰𝑽𝑰𝑳𝑰𝑼𝑺𓃵𓂀𝑭𝑨𝑴𝑰𝑳𝒀𓂀⃝🪽"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Kang jinhuyk",
+        "value": "𝑴𝒂𝒓𝒄𝒆𝒍 𝒎𝒊𝒌𝒂𝒆𝒍𝒔𝒐𝒏",
         "required": true
       },
   
